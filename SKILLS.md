@@ -3,7 +3,7 @@
 Auto-generated catalogue of the skills published by this repository. Do not edit
 by hand — `scripts/build.mjs` rewrites it on every build.
 
-- Generated: `2026-10-26T08:49:10.112Z`
+- Generated: `2026-11-02T10:56:30.447Z`
 - Skills: **72** (panel limit 500)
 - Payload: **17.83 MiB** / 32 MiB panel cap
 
